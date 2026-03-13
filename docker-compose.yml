@@ -1,0 +1,19 @@
+version: '3'
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports: ["8080:8080"]
+    depends_on:
+      - db
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:h2:mem:smartmart
+      - SPRING_DATASOURCE_USERNAME=sa
+      - SPRING_DATASOURCE_PASSWORD=
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports: ["4173:4173"]

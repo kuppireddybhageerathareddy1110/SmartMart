@@ -1,0 +1,1100 @@
+{
+    "products": [
+        {
+            "name": "MacBook Pro 16\"",
+            "price": 199900.0,
+            "category": "Electronics",
+            "description": "M3 Pro chip, 18GB RAM, 512GB SSD \u2013 powerhouse for developers",
+            "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca4?w=400"
+        },
+        {
+            "name": "iPhone 15 Pro Max",
+            "price": 159900.0,
+            "category": "Electronics",
+            "description": "A17 Pro chip, titanium body, 48MP camera system",
+            "imageUrl": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=400"
+        },
+        {
+            "name": "Samsung 65\" QLED 4K TV",
+            "price": 89999.0,
+            "category": "Electronics",
+            "description": "Quantum Dot technology, 120Hz refresh rate, HDR 2000",
+            "imageUrl": "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=400"
+        },
+        {
+            "name": "Sony WH-1000XM5 Headphones",
+            "price": 29990.0,
+            "category": "Electronics",
+            "description": "Industry-leading noise cancellation, 30hr battery",
+            "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+        },
+        {
+            "name": "iPad Pro 12.9\"",
+            "price": 112900.0,
+            "category": "Electronics",
+            "description": "M2 chip, Liquid Retina XDR display, Apple Pencil compatible",
+            "imageUrl": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=400"
+        },
+        {
+            "name": "OnePlus 12 5G",
+            "price": 64999.0,
+            "category": "Electronics",
+            "description": "Snapdragon 8 Gen 3, 100W fast charging, Hasselblad camera",
+            "imageUrl": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400"
+        },
+        {
+            "name": "Dell XPS 15 Laptop",
+            "price": 149990.0,
+            "category": "Electronics",
+            "description": "Intel Core i9, 32GB RAM, OLED touch display",
+            "imageUrl": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400"
+        },
+        {
+            "name": "Canon EOS R50 Camera",
+            "price": 72990.0,
+            "category": "Electronics",
+            "description": "24.2MP APS-C sensor, 4K video, compact mirrorless",
+            "imageUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=400"
+        },
+        {
+            "name": "Nike Air Max 270",
+            "price": 12995.0,
+            "category": "Fashion",
+            "description": "Max Air unit for all-day comfort, breathable mesh upper",
+            "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400"
+        },
+        {
+            "name": "Levi's 511 Slim Jeans",
+            "price": 3799.0,
+            "category": "Fashion",
+            "description": "Slim fit, flex fabric, classic 5-pocket styling",
+            "imageUrl": "https://images.unsplash.com/photo-1542272454315-4c01d7abdf4a?w=400"
+        },
+        {
+            "name": "Ray-Ban Aviator Classic",
+            "price": 14990.0,
+            "category": "Fashion",
+            "description": "100% UV protection, gold frame, green G-15 lens",
+            "imageUrl": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=400"
+        },
+        {
+            "name": "Adidas Ultraboost 23",
+            "price": 19999.0,
+            "category": "Fashion",
+            "description": "Boost cushioning, Primeknit+ upper, Continental rubber outsole",
+            "imageUrl": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=400"
+        },
+        {
+            "name": "Dyson V15 Detect Vacuum",
+            "price": 52900.0,
+            "category": "Home & Garden",
+            "description": "Laser detect technology, HEPA filtration, 60-min runtime",
+            "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400"
+        },
+        {
+            "name": "Instant Pot Duo 7-in-1",
+            "price": 8999.0,
+            "category": "Home & Garden",
+            "description": "Pressure cooker, slow cooker, rice cooker, steamer, saut\u00e9, warmer",
+            "imageUrl": "https://images.unsplash.com/photo-1585515320310-259814833e62?w=400"
+        },
+        {
+            "name": "Philips Hue Starter Kit",
+            "price": 14999.0,
+            "category": "Home & Garden",
+            "description": "4 bulbs + bridge, 16M colors, voice & app control",
+            "imageUrl": "https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?w=400"
+        },
+        {
+            "name": "IKEA KALLAX Shelf Unit",
+            "price": 5999.0,
+            "category": "Home & Garden",
+            "description": "4x4 grid organizer, works as room divider, multiple finishes",
+            "imageUrl": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400"
+        },
+        {
+            "name": "Garmin Forerunner 265",
+            "price": 44990.0,
+            "category": "Sports & Fitness",
+            "description": "AMOLED display, advanced running dynamics, HRV status",
+            "imageUrl": "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=400"
+        },
+        {
+            "name": "Yoga Mat Premium 6mm",
+            "price": 1599.0,
+            "category": "Sports & Fitness",
+            "description": "Non-slip, eco-friendly TPE, alignment lines, carry strap",
+            "imageUrl": "https://images.unsplash.com/photo-1601925228561-e0fd6f14f0a9?w=400"
+        },
+        {
+            "name": "Bowflex SelectTech 552 Dumbbells",
+            "price": 34999.0,
+            "category": "Sports & Fitness",
+            "description": "Adjustable 2.5\u201324kg, replaces 15 sets of weights",
+            "imageUrl": "https://images.unsplash.com/photo-1576678927484-cc907957088c?w=400"
+        },
+        {
+            "name": "Atomic Habits by James Clear",
+            "price": 499.0,
+            "category": "Books",
+            "description": "Build good habits, break bad ones \u2013 bestselling self-help guide",
+            "imageUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400"
+        },
+        {
+            "name": "Clean Code by Robert Martin",
+            "price": 2199.0,
+            "category": "Books",
+            "description": "A handbook of agile software craftsmanship for developers",
+            "imageUrl": "https://images.unsplash.com/photo-1592496431122-2349e0fbc666?w=400"
+        },
+        {
+            "name": "Sapiens by Yuval Noah Harari",
+            "price": 599.0,
+            "category": "Books",
+            "description": "A brief history of humankind \u2013 global phenomenon",
+            "imageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400"
+        },
+        {
+            "name": "L'Oreal Revitalift Serum",
+            "price": 1299.0,
+            "category": "Beauty",
+            "description": "Pure 1.5% Vitamin C, firms and brightens in 4 weeks",
+            "imageUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400"
+        },
+        {
+            "name": "Dyson Airwrap Styler",
+            "price": 44990.0,
+            "category": "Beauty",
+            "description": "Multi-styler with Coanda airflow, no extreme heat damage",
+            "imageUrl": "https://images.unsplash.com/photo-1522338242992-e1a54906a8da?w=400"
+        },
+        {
+            "name": "Organic Olive Oil Extra Virgin",
+            "price": 850.0,
+            "category": "Groceries",
+            "description": "Cold pressed, 500ml, from Greek olive groves",
+            "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=400"
+        },
+        {
+            "name": "Assorted Dry Fruits Box 1kg",
+            "price": 1499.0,
+            "category": "Groceries",
+            "description": "Almonds, cashews, walnuts, pistachios \u2013 premium quality",
+            "imageUrl": "https://images.unsplash.com/photo-1536825211030-094de935f680?w=400"
+        },
+        {
+            "name": "Himalayan Pink Salt 1kg",
+            "price": 299.0,
+            "category": "Groceries",
+            "description": "Pure unrefined rock salt, rich in minerals",
+            "imageUrl": "https://images.unsplash.com/photo-1634118520179-0c78b72df69b?w=400"
+        },
+        {
+            "name": "LEGO Technic Bugatti Bolide",
+            "price": 24999.0,
+            "category": "Toys",
+            "description": "905 pieces, authentic design, working suspension",
+            "imageUrl": "https://images.unsplash.com/photo-1585366119957-e9730b6d0f60?w=400"
+        },
+        {
+            "name": "RC Off-Road Monster Truck",
+            "price": 3499.0,
+            "category": "Toys",
+            "description": "1:16 scale, 4WD, 2.4GHz remote, LED lights",
+            "imageUrl": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?w=400"
+        },
+        {
+            "name": "Omron Blood Pressure Monitor",
+            "price": 2999.0,
+            "category": "Health",
+            "description": "Clinically validated, irregular heartbeat detection, 60-reading memory",
+            "imageUrl": "https://images.unsplash.com/photo-1583324113626-70df0f4deaab?w=400"
+        },
+        {
+            "name": "Whey Protein Gold Standard 2kg",
+            "price": 5199.0,
+            "category": "Health",
+            "description": "24g protein per serving, 5.5g BCAAs, chocolate flavor",
+            "imageUrl": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=400"
+        },
+        {
+            "name": "Coleman Sundome 4-Person Tent",
+            "price": 8999.0,
+            "category": "Outdoor",
+            "description": "Easy setup, WeatherTec system, fits 2 queen air beds",
+            "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=400"
+        },
+        {
+            "name": "Meguiar's Ultimate Liquid Wax",
+            "price": 2490.0,
+            "category": "Automotive",
+            "description": "ThinFilm technology, easy application, deep synthetic shine.",
+            "imageUrl": "https://images.unsplash.com/photo-1601362840469-51e4d8d58785?w=400"
+        },
+        {
+            "name": "Michelin Defender LTX M/S Tire",
+            "price": 18500.0,
+            "category": "Automotive",
+            "description": "All-season light truck tire, superior grip.",
+            "imageUrl": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=400"
+        },
+        {
+            "name": "Bosch ICON Wiper Blades",
+            "price": 1290.0,
+            "category": "Automotive",
+            "description": "Beam design, up to 40% longer life, clear wipe.",
+            "imageUrl": "https://images.unsplash.com/photo-1616421319088-39a0680387b3?w=400"
+        },
+        {
+            "name": "NOCO Boost Plus GB40 Jump Starter",
+            "price": 8999.0,
+            "category": "Automotive",
+            "description": "1000 Amp 12V ultra-safe portable lithium car battery booster.",
+            "imageUrl": "https://images.unsplash.com/photo-1517554593466-9eebbf646399?w=400"
+        },
+        {
+            "name": "Chemical Guys Car Wash Kit",
+            "price": 4499.0,
+            "category": "Automotive",
+            "description": "14-piece exterior detail kit with foam cannon.",
+            "imageUrl": "https://images.unsplash.com/photo-1601362840469-51e4d8d58785?w=400"
+        },
+        {
+            "name": "K&N Premium Oil Filter",
+            "price": 699.0,
+            "category": "Automotive",
+            "description": "Designed for exceptional flow rates and consistent oil flow.",
+            "imageUrl": "https://images.unsplash.com/photo-1598335043813-f6faaa740cf4?w=400"
+        },
+        {
+            "name": "Castrol EDGE 5W-30 Advanced Full Synthetic",
+            "price": 3199.0,
+            "category": "Automotive",
+            "description": "5 Quart motor oil, maximum engine performance.",
+            "imageUrl": "https://images.unsplash.com/photo-1534017865-c3c73bb1e1b2?w=400"
+        },
+        {
+            "name": "WeatherTech Custom FloorLiners",
+            "price": 15990.0,
+            "category": "Automotive",
+            "description": "Laser measured for a perfect fit, absolute interior protection.",
+            "imageUrl": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=400"
+        },
+        {
+            "name": "EPAuto 12V DC Portable Air Compressor",
+            "price": 2199.0,
+            "category": "Automotive",
+            "description": "Digital tire inflator, auto shut-off.",
+            "imageUrl": "https://images.unsplash.com/photo-1610640498305-b040bfcc6c8f?w=400"
+        },
+        {
+            "name": "Armor All Leather Care Gel",
+            "price": 899.0,
+            "category": "Automotive",
+            "description": "Cleans, conditions, and protects leather.",
+            "imageUrl": "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=400"
+        },
+        {
+            "name": "Turtle Wax Headlight Lens Restorer",
+            "price": 999.0,
+            "category": "Automotive",
+            "description": "Improves lens appearance and visibility for safer driving.",
+            "imageUrl": "https://images.unsplash.com/photo-1601362840469-51e4d8d58785?w=400"
+        },
+        {
+            "name": "F1 500W Power Inverter",
+            "price": 3199.0,
+            "category": "Automotive",
+            "description": "Dual 110V AC outlets, 2 USB ports, car charger.",
+            "imageUrl": "https://images.unsplash.com/photo-1591012903820-2782e4f0dc0f?w=400"
+        },
+        {
+            "name": "Drive Auto Trunk Organizer",
+            "price": 1899.0,
+            "category": "Automotive",
+            "description": "Collapsible multi-compartment car organizer.",
+            "imageUrl": "https://images.unsplash.com/photo-1542362567-b07e54358753?w=400"
+        },
+        {
+            "name": "Foxwell NT301 OBD2 Scanner",
+            "price": 5499.0,
+            "category": "Automotive",
+            "description": "Professional mechanic code reader, live data.",
+            "imageUrl": "https://images.unsplash.com/photo-1530906358829-e84b2769270f?w=400"
+        },
+        {
+            "name": "Garmin Dash Cam Mini 2",
+            "price": 10990.0,
+            "category": "Automotive",
+            "description": "Tiny 1080p dash cam with voice control.",
+            "imageUrl": "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=400"
+        },
+        {
+            "name": "Rexing V1 4K Dash Cam",
+            "price": 8490.0,
+            "category": "Automotive",
+            "description": "2.4\" LCD 2160p, Wi-Fi, 170-degree wide angle.",
+            "imageUrl": "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=400"
+        },
+        {
+            "name": "Mpow Car Phone Mount",
+            "price": 599.0,
+            "category": "Automotive",
+            "description": "Dashboard windshield cell phone holder.",
+            "imageUrl": "https://images.unsplash.com/photo-1577977465917-a06509fdecce?w=400"
+        },
+        {
+            "name": "AstroAI Digital Tire Pressure Gauge",
+            "price": 799.0,
+            "category": "Automotive",
+            "description": "150 PSI 4 settings for car, truck, bicycle.",
+            "imageUrl": "https://images.unsplash.com/photo-1610640498305-b040bfcc6c8f?w=400"
+        },
+        {
+            "name": "Rain-X Glass Treatment",
+            "price": 450.0,
+            "category": "Automotive",
+            "description": "Dramatically improves wet weather driving visibility.",
+            "imageUrl": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=400"
+        },
+        {
+            "name": "Vantrue N4 3 Channel Dash Cam",
+            "price": 19999.0,
+            "category": "Automotive",
+            "description": "4K+1080P front and rear, IR night vision.",
+            "imageUrl": "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=400"
+        },
+        {
+            "name": "Nescafe Gold Blend Coffee 200g",
+            "price": 799.0,
+            "category": "Groceries",
+            "description": "Rich and smooth premium instant coffee.",
+            "imageUrl": "https://images.unsplash.com/photo-1559525839-b184a4d698c7?w=400"
+        },
+        {
+            "name": "Lindt Excellence Dark Chocolate",
+            "price": 350.0,
+            "category": "Groceries",
+            "description": "85% Cocoa intensely dark, 100g.",
+            "imageUrl": "https://images.unsplash.com/photo-1586940989016-160fa1f9ce06?w=400"
+        },
+        {
+            "name": "Barilla Spaghetti Pasta",
+            "price": 320.0,
+            "category": "Groceries",
+            "description": "Authentic Italian pasta, no. 5, 500g.",
+            "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=400"
+        },
+        {
+            "name": "Twinings Earl Grey Tea",
+            "price": 450.0,
+            "category": "Groceries",
+            "description": "50 tea bags, classic blend.",
+            "imageUrl": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=400"
+        },
+        {
+            "name": "Quaker Oats 1.5kg",
+            "price": 280.0,
+            "category": "Groceries",
+            "description": "100% natural wholegrain oats.",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?w=400"
+        },
+        {
+            "name": "Pringles Original Potato Crisps",
+            "price": 220.0,
+            "category": "Groceries",
+            "description": "165g classic salted chips.",
+            "imageUrl": "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?w=400"
+        },
+        {
+            "name": "Nutella Hazelnut Spread",
+            "price": 420.0,
+            "category": "Groceries",
+            "description": "350g chocolate hazelnut spread.",
+            "imageUrl": "https://images.unsplash.com/photo-1623861271615-ce1bb7f44a49?w=400"
+        },
+        {
+            "name": "Heinz Tomato Ketchup",
+            "price": 150.0,
+            "category": "Groceries",
+            "description": "Classic thick and rich tomato sauce, 400g.",
+            "imageUrl": "https://images.unsplash.com/photo-1596649282362-e612cb74fc89?w=400"
+        },
+        {
+            "name": "Kellogg's Corn Flakes",
+            "price": 380.0,
+            "category": "Groceries",
+            "description": "875g original breakfast cereal.",
+            "imageUrl": "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=400"
+        },
+        {
+            "name": "Kikkoman Soy Sauce",
+            "price": 290.0,
+            "category": "Groceries",
+            "description": "Naturally brewed soy sauce, 150ml.",
+            "imageUrl": "https://images.unsplash.com/photo-1582283084365-27a3c301ae4f?w=400"
+        },
+        {
+            "name": "Tropicana 100% Orange Juice",
+            "price": 130.0,
+            "category": "Groceries",
+            "description": "1 Liter, no added sugar.",
+            "imageUrl": "https://images.unsplash.com/photo-1600271886742-f049cd451b66?w=400"
+        },
+        {
+            "name": "Maggi 2-Minute Noodles",
+            "price": 180.0,
+            "category": "Groceries",
+            "description": "12-pack Masala flavor instant noodles.",
+            "imageUrl": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400"
+        },
+        {
+            "name": "Sriracha Hot Chili Sauce",
+            "price": 450.0,
+            "category": "Groceries",
+            "description": "Huy Fong original sriracha, 17 oz.",
+            "imageUrl": "https://images.unsplash.com/photo-1596649282362-e612cb74fc89?w=400"
+        },
+        {
+            "name": "Oreo Original Sandwich Cookies",
+            "price": 190.0,
+            "category": "Groceries",
+            "description": "Classic chocolate and vanilla creme cookies.",
+            "imageUrl": "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?w=400"
+        },
+        {
+            "name": "Alpro Almond Milk",
+            "price": 280.0,
+            "category": "Groceries",
+            "description": "Unsweetened plant-based milk, 1L.",
+            "imageUrl": "https://images.unsplash.com/photo-1600271886742-f049cd451b66?w=400"
+        },
+        {
+            "name": "Hellmann's Real Mayonnaise",
+            "price": 310.0,
+            "category": "Groceries",
+            "description": "Rich and creamy mayo, 280g.",
+            "imageUrl": "https://images.unsplash.com/photo-1596649282362-e612cb74fc89?w=400"
+        },
+        {
+            "name": "Bounty Kitchen Paper Towels",
+            "price": 450.0,
+            "category": "Groceries",
+            "description": "2 rolls, extra absorbent.",
+            "imageUrl": "https://images.unsplash.com/photo-1584486663242-452f14654b03?w=400"
+        },
+        {
+            "name": "Ariel Color Liquid Detergent",
+            "price": 650.0,
+            "category": "Groceries",
+            "description": "1.5L, brilliant stain removal.",
+            "imageUrl": "https://images.unsplash.com/photo-1584486663242-452f14654b03?w=400"
+        },
+        {
+            "name": "Ferrero Rocher Chocolates",
+            "price": 750.0,
+            "category": "Groceries",
+            "description": "Premium hazelnut truffles, 16 pieces.",
+            "imageUrl": "https://images.unsplash.com/photo-1586940989016-160fa1f9ce06?w=400"
+        },
+        {
+            "name": "Marmite Yeast Extract",
+            "price": 399.0,
+            "category": "Groceries",
+            "description": "Classic British spread, 250g.",
+            "imageUrl": "https://images.unsplash.com/photo-1582283084365-27a3c301ae4f?w=400"
+        },
+        {
+            "name": "Pedigree Adult Dry Dog Food",
+            "price": 1890.0,
+            "category": "Pet Supplies",
+            "description": "Chicken and veg, 10kg pack.",
+            "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=400"
+        },
+        {
+            "name": "Whiskas Adult Dry Cat Food",
+            "price": 1250.0,
+            "category": "Pet Supplies",
+            "description": "Ocean Fish flavor, 3kg.",
+            "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=400"
+        },
+        {
+            "name": "Purina Pro Plan Dog Food",
+            "price": 3400.0,
+            "category": "Pet Supplies",
+            "description": "Sensitive skin and stomach, salmon and rice.",
+            "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=400"
+        },
+        {
+            "name": "Fresh Step Odor Shield Litter",
+            "price": 1450.0,
+            "category": "Pet Supplies",
+            "description": "Clumping cat litter with Febreze freshness.",
+            "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=400"
+        },
+        {
+            "name": "Kong Classic Dog Toy",
+            "price": 599.0,
+            "category": "Pet Supplies",
+            "description": "Durable rubber dog chew toy, Large.",
+            "imageUrl": "https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?w=400"
+        },
+        {
+            "name": "Catsan Hygiene Plus Litter",
+            "price": 899.0,
+            "category": "Pet Supplies",
+            "description": "Absorbs before odor develops, 10L.",
+            "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=400"
+        },
+        {
+            "name": "Royal Canin Kitten Food",
+            "price": 1100.0,
+            "category": "Pet Supplies",
+            "description": "Supports immune system development, 2kg.",
+            "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=400"
+        },
+        {
+            "name": "Greenies Dental Dog Treats",
+            "price": 1290.0,
+            "category": "Pet Supplies",
+            "description": "Original flavor, regular size.",
+            "imageUrl": "https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?w=400"
+        },
+        {
+            "name": "Furminator Deshedding Tool",
+            "price": 2199.0,
+            "category": "Pet Supplies",
+            "description": "Reduces loose hair from shedding up to 90%.",
+            "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=400"
+        },
+        {
+            "name": "Bedsure Orthopedic Dog Bed",
+            "price": 4500.0,
+            "category": "Pet Supplies",
+            "description": "Memory foam, washable cover, XL.",
+            "imageUrl": "https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?w=400"
+        },
+        {
+            "name": "Sheba Wet Cat Food",
+            "price": 950.0,
+            "category": "Pet Supplies",
+            "description": "Perfect portions cuts in gravy, 12 pack.",
+            "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=400"
+        },
+        {
+            "name": "Chuckit! Ultra Ball",
+            "price": 450.0,
+            "category": "Pet Supplies",
+            "description": "High bounce bouncy dog fetch toy, 2 pack.",
+            "imageUrl": "https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?w=400"
+        },
+        {
+            "name": "Friskies Surfin' & Turfin'",
+            "price": 1100.0,
+            "category": "Pet Supplies",
+            "description": "Dry cat food, meat and seafood flavors.",
+            "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=400"
+        },
+        {
+            "name": "Seresto Flea & Tick Collar",
+            "price": 3800.0,
+            "category": "Pet Supplies",
+            "description": "8-month prevention for dogs.",
+            "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=400"
+        },
+        {
+            "name": "Temptations Cat Treats",
+            "price": 299.0,
+            "category": "Pet Supplies",
+            "description": "Tasty chicken flavor, 85g.",
+            "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=400"
+        },
+        {
+            "name": "API Stress Coat Water Conditioner",
+            "price": 850.0,
+            "category": "Pet Supplies",
+            "description": "Makes tap water safe for fish, 16 oz.",
+            "imageUrl": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+        },
+        {
+            "name": "TetraMin Tropical Flakes",
+            "price": 350.0,
+            "category": "Pet Supplies",
+            "description": "Nutritionally balanced fish food.",
+            "imageUrl": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=400"
+        },
+        {
+            "name": "Ruffwear Front Range Harness",
+            "price": 3990.0,
+            "category": "Pet Supplies",
+            "description": "Everyday dog harness, padded.",
+            "imageUrl": "https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?w=400"
+        },
+        {
+            "name": "Catit Flower Fountain",
+            "price": 2100.0,
+            "category": "Pet Supplies",
+            "description": "3L drinking water fountain for cats.",
+            "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=400"
+        },
+        {
+            "name": "Taste of the Wild High Prairie",
+            "price": 4200.0,
+            "category": "Pet Supplies",
+            "description": "Roasted bison and venison dry dog food.",
+            "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=400"
+        },
+        {
+            "name": "Herman Miller Aeron Chair",
+            "price": 115000.0,
+            "category": "Office",
+            "description": "Ergonomic mesh office chair, highly adjustable.",
+            "imageUrl": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?w=400"
+        },
+        {
+            "name": "Logitech MX Master 3S Mouse",
+            "price": 8999.0,
+            "category": "Office",
+            "description": "Wireless performance mouse, ergonomic design.",
+            "imageUrl": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400"
+        },
+        {
+            "name": "Keychron K2 Mechanical Keyboard",
+            "price": 6999.0,
+            "category": "Office",
+            "description": "Wireless mechanical keyboard with tactile switches.",
+            "imageUrl": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=400"
+        },
+        {
+            "name": "Dell UltraSharp 27\" Monitor",
+            "price": 28900.0,
+            "category": "Office",
+            "description": "4K USB-C monitor, vibrant colors.",
+            "imageUrl": "https://images.unsplash.com/photo-1527443154391-507e9dc6c5cc?w=400"
+        },
+        {
+            "name": "Moleskine Classic Notebook",
+            "price": 1250.0,
+            "category": "Office",
+            "description": "Hard cover, ruled/lined, black.",
+            "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=400"
+        },
+        {
+            "name": "Pilot G2 Premium Gel Pens",
+            "price": 350.0,
+            "category": "Office",
+            "description": "Fine point 0.7mm, black ink, 4 pack.",
+            "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5a6206d2?w=400"
+        },
+        {
+            "name": "Post-it Notes Original",
+            "price": 150.0,
+            "category": "Office",
+            "description": "3x3 inch, canary yellow, 4 pads.",
+            "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=400"
+        },
+        {
+            "name": "Epson EcoTank L3250 Printer",
+            "price": 13500.0,
+            "category": "Office",
+            "description": "All-in-one wireless ink tank printer.",
+            "imageUrl": "https://images.unsplash.com/photo-1594916893660-84c6af73f32e?w=400"
+        },
+        {
+            "name": "HP DeskJet 2755e",
+            "price": 4999.0,
+            "category": "Office",
+            "description": "Wireless color all-in-one printer.",
+            "imageUrl": "https://images.unsplash.com/photo-1594916893660-84c6af73f32e?w=400"
+        },
+        {
+            "name": "Paper Mate Flair Felt Tip Pens",
+            "price": 550.0,
+            "category": "Office",
+            "description": "Medium point, 12 assorted colors.",
+            "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5a6206d2?w=400"
+        },
+        {
+            "name": "Fellowes Powershred 79Ci",
+            "price": 18500.0,
+            "category": "Office",
+            "description": "100% jam proof cross-cut shredder.",
+            "imageUrl": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?w=400"
+        },
+        {
+            "name": "3M Privacy Filter for 14\"",
+            "price": 3200.0,
+            "category": "Office",
+            "description": "Laptop privacy screen protector.",
+            "imageUrl": "https://images.unsplash.com/photo-1527443154391-507e9dc6c5cc?w=400"
+        },
+        {
+            "name": "Amazon Basics Standing Desk",
+            "price": 12000.0,
+            "category": "Office",
+            "description": "Height adjustable manual standing desk.",
+            "imageUrl": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?w=400"
+        },
+        {
+            "name": "Blue Yeti USB Microphone",
+            "price": 10990.0,
+            "category": "Office",
+            "description": "For recording and streaming, condenser mic.",
+            "imageUrl": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=400"
+        },
+        {
+            "name": "Logitech C920x HD Pro Webcam",
+            "price": 7500.0,
+            "category": "Office",
+            "description": "1080p high definition webcam.",
+            "imageUrl": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=400"
+        },
+        {
+            "name": "Sharpie Permanent Markers",
+            "price": 450.0,
+            "category": "Office",
+            "description": "Fine point, black, 12 count.",
+            "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5a6206d2?w=400"
+        },
+        {
+            "name": "Hammermill Copy Paper",
+            "price": 490.0,
+            "category": "Office",
+            "description": "500 sheets, 20lb, 92 bright.",
+            "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=400"
+        },
+        {
+            "name": "Lamicall Adjustable Laptop Stand",
+            "price": 1899.0,
+            "category": "Office",
+            "description": "Ergonomic aluminum stand.",
+            "imageUrl": "https://images.unsplash.com/photo-1527443154391-507e9dc6c5cc?w=400"
+        },
+        {
+            "name": "Anker 7-Port USB 3.0 Data Hub",
+            "price": 3100.0,
+            "category": "Office",
+            "description": "Compact hub with power adapter.",
+            "imageUrl": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400"
+        },
+        {
+            "name": "Elgato Stream Deck",
+            "price": 12500.0,
+            "category": "Office",
+            "description": "15 macro keys for productivity.",
+            "imageUrl": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=400"
+        },
+        {
+            "name": "Pampers Swaddlers Diapers Size 1",
+            "price": 1450.0,
+            "category": "Baby",
+            "description": "Softest protection, 168 count.",
+            "imageUrl": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400"
+        },
+        {
+            "name": "Huggies Natural Care Wipes",
+            "price": 850.0,
+            "category": "Baby",
+            "description": "Unscented baby wipes, 10 packs.",
+            "imageUrl": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400"
+        },
+        {
+            "name": "UPPAbaby Vista V2 Stroller",
+            "price": 95000.0,
+            "category": "Baby",
+            "description": "Premium convertible stroller system.",
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=400"
+        },
+        {
+            "name": "Graco Extend2Fit Car Seat",
+            "price": 18500.0,
+            "category": "Baby",
+            "description": "Convertible car seat, rides rear-facing longer.",
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=400"
+        },
+        {
+            "name": "Dr. Brown's Anti-Colic Bottles",
+            "price": 1200.0,
+            "category": "Baby",
+            "description": "Options+ narrow baby bottles, 3 pack.",
+            "imageUrl": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400"
+        },
+        {
+            "name": "Philips Avent Soothie Pacifier",
+            "price": 450.0,
+            "category": "Baby",
+            "description": "0-3 months, 2 pack, green.",
+            "imageUrl": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400"
+        },
+        {
+            "name": "FridaBaby NoseFrida Snotsucker",
+            "price": 999.0,
+            "category": "Baby",
+            "description": "Hygienic baby nasal aspirator.",
+            "imageUrl": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400"
+        },
+        {
+            "name": "BabyBj\u00f6rn Bouncer Balance Soft",
+            "price": 16500.0,
+            "category": "Baby",
+            "description": "Ergonomic baby bouncer.",
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=400"
+        },
+        {
+            "name": "Boppy Nursing Pillow",
+            "price": 3500.0,
+            "category": "Baby",
+            "description": "Original nursing support, bare naked.",
+            "imageUrl": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400"
+        },
+        {
+            "name": "Hatch Rest Baby Sound Machine",
+            "price": 6500.0,
+            "category": "Baby",
+            "description": "Night light and sleep trainer.",
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=400"
+        },
+        {
+            "name": "Fisher-Price Sit-Me-Up Seat",
+            "price": 3800.0,
+            "category": "Baby",
+            "description": "Comfortable floor seat for babies.",
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=400"
+        },
+        {
+            "name": "Skip Hop Baby Tummy Time Mat",
+            "price": 2800.0,
+            "category": "Baby",
+            "description": "Interactive playmat for infants.",
+            "imageUrl": "https://images.unsplash.com/photo-1587393863777-7634863bc72a?w=400"
+        },
+        {
+            "name": "Similac Pro-Advance Formula",
+            "price": 2850.0,
+            "category": "Baby",
+            "description": "Infant formula with iron, 30 oz.",
+            "imageUrl": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400"
+        },
+        {
+            "name": "Munchkin White Hot Safety Duck",
+            "price": 350.0,
+            "category": "Baby",
+            "description": "Bath toy that alerts when water is too hot.",
+            "imageUrl": "https://images.unsplash.com/photo-1587393863777-7634863bc72a?w=400"
+        },
+        {
+            "name": "Burts Bees Baby Shampoo",
+            "price": 850.0,
+            "category": "Baby",
+            "description": "Tear-free shampoo and wash.",
+            "imageUrl": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400"
+        },
+        {
+            "name": "Owala FreeSip Water Bottle",
+            "price": 1800.0,
+            "category": "Baby",
+            "description": "Kid's insulated stainless steel bottle.",
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=400"
+        },
+        {
+            "name": "Nanit Pro Smart Baby Monitor",
+            "price": 25000.0,
+            "category": "Baby",
+            "description": "1080p HD video camera and sleep tracker.",
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=400"
+        },
+        {
+            "name": "Halo SleepSack Swaddle",
+            "price": 1950.0,
+            "category": "Baby",
+            "description": "100% cotton wearable blanket.",
+            "imageUrl": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400"
+        },
+        {
+            "name": "Tommee Tippee Sangenic Bin",
+            "price": 2500.0,
+            "category": "Baby",
+            "description": "Nappy disposal system.",
+            "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=400"
+        },
+        {
+            "name": "Vulli Sophie La Girafe",
+            "price": 1850.0,
+            "category": "Baby",
+            "description": "Natural rubber teething toy.",
+            "imageUrl": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400"
+        },
+        {
+            "name": "Fender Player Stratocaster",
+            "price": 64999.0,
+            "category": "Music",
+            "description": "Electric guitar with maple fingerboard.",
+            "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=400"
+        },
+        {
+            "name": "Yamaha P-45 Digital Piano",
+            "price": 42500.0,
+            "category": "Music",
+            "description": "88-key weighted action electronic keyboard.",
+            "imageUrl": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=400"
+        },
+        {
+            "name": "Shure SM58 Dynamic Microphone",
+            "price": 8500.0,
+            "category": "Music",
+            "description": "Legendary vocal microphone for live performance.",
+            "imageUrl": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=400"
+        },
+        {
+            "name": "Focusrite Scarlett 2i2 Interface",
+            "price": 14500.0,
+            "category": "Music",
+            "description": "USB audio interface for recording.",
+            "imageUrl": "https://images.unsplash.com/photo-1598653222000-6b7b7a552625?w=400"
+        },
+        {
+            "name": "Audio-Technica ATH-M50x",
+            "price": 13999.0,
+            "category": "Music",
+            "description": "Professional studio monitor headphones.",
+            "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+        },
+        {
+            "name": "Martin LX1E Little Martin",
+            "price": 38000.0,
+            "category": "Music",
+            "description": "Acoustic-electric travel guitar.",
+            "imageUrl": "https://images.unsplash.com/photo-1510915361894-faa88cbb592d?w=400"
+        },
+        {
+            "name": "Vic Firth 5A Drumsticks",
+            "price": 850.0,
+            "category": "Music",
+            "description": "American Classic hickory drumsticks.",
+            "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=400"
+        },
+        {
+            "name": "BOSS DS-1 Distortion Pedal",
+            "price": 4500.0,
+            "category": "Music",
+            "description": "Classic distortion guitar effect pedal.",
+            "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=400"
+        },
+        {
+            "name": "Akai MPK Mini Mk3",
+            "price": 9500.0,
+            "category": "Music",
+            "description": "25-key USB MIDI keyboard controller.",
+            "imageUrl": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=400"
+        },
+        {
+            "name": "D'Addario EXL110 Guitar Strings",
+            "price": 650.0,
+            "category": "Music",
+            "description": "Nickel wound, regular light gauge 10-46.",
+            "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=400"
+        },
+        {
+            "name": "Korg Volca Beats",
+            "price": 14500.0,
+            "category": "Music",
+            "description": "Analogue rhythm machine.",
+            "imageUrl": "https://images.unsplash.com/photo-1598653222000-6b7b7a552625?w=400"
+        },
+        {
+            "name": "Pioneer DJ DDJ-FLX4",
+            "price": 28500.0,
+            "category": "Music",
+            "description": "2-channel DJ controller for Rekordbox & Serato.",
+            "imageUrl": "https://images.unsplash.com/photo-1598653222000-6b7b7a552625?w=400"
+        },
+        {
+            "name": "Snark SN5X Clip-On Tuner",
+            "price": 1250.0,
+            "category": "Music",
+            "description": "Tuner for guitar, bass, and violin.",
+            "imageUrl": "https://images.unsplash.com/photo-1510915361894-faa88cbb592d?w=400"
+        },
+        {
+            "name": "Kyser Quick-Change Capo",
+            "price": 1550.0,
+            "category": "Music",
+            "description": "Acoustic guitar capo, black.",
+            "imageUrl": "https://images.unsplash.com/photo-1510915361894-faa88cbb592d?w=400"
+        },
+        {
+            "name": "Roland SPD-SX Pro",
+            "price": 85000.0,
+            "category": "Music",
+            "description": "Flagship sampling pad.",
+            "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=400"
+        },
+        {
+            "name": "M-Audio BX3 Monitors",
+            "price": 11500.0,
+            "category": "Music",
+            "description": "120W studio monitor speakers (pair).",
+            "imageUrl": "https://images.unsplash.com/photo-1598653222000-6b7b7a552625?w=400"
+        },
+        {
+            "name": "Ernie Ball Instrument Cable",
+            "price": 1850.0,
+            "category": "Music",
+            "description": "10ft braided guitar cable.",
+            "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=400"
+        },
+        {
+            "name": "Dunlop Tortex Picks",
+            "price": 450.0,
+            "category": "Music",
+            "description": "Standard 0.73mm yellow, 12 pack.",
+            "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=400"
+        },
+        {
+            "name": "Casio CT-X700 Keyboard",
+            "price": 14500.0,
+            "category": "Music",
+            "description": "61-key portable keyboard.",
+            "imageUrl": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=400"
+        },
+        {
+            "name": "Seymour Duncan JB Pickup",
+            "price": 8500.0,
+            "category": "Music",
+            "description": "SH-4 bridge humbucker pickup.",
+            "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=400"
+        }
+    ],
+    "users": [
+        {
+            "name": "Admin User",
+            "email": "admin@smartmart.com",
+            "password": "admin123",
+            "role": "ADMIN"
+        },
+        {
+            "name": "Shopkeeper Sam",
+            "email": "shopkeeper@smartmart.com",
+            "password": "shop123",
+            "role": "SHOPKEEPER"
+        },
+        {
+            "name": "Delivery Dan",
+            "email": "delivery@smartmart.com",
+            "password": "delivery123",
+            "role": "DELIVERY_AGENT"
+        },
+        {
+            "name": "Warehouse Wren",
+            "email": "warehouse@smartmart.com",
+            "password": "warehouse123",
+            "role": "WAREHOUSE_OWNER"
+        },
+        {
+            "name": "Regular User",
+            "email": "user@smartmart.com",
+            "password": "user123",
+            "role": "USER"
+        }
+    ]
+}
